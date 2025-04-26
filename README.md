@@ -7,13 +7,19 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
 
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: Dev
+1. Gabriel 
+2. Ricardo Lemos
+3. Daniel Reis
+4. Gustavo de Oliveira
+5. Eduardo Almeida
 
 # Avaliação das PR: 
 
-| Integrantes  | Fulano 1 | Fulano 2 |
+| Integrantes  | GABRIEL | RICARDO | DANIEL | GUSTAVO | EDUARDO
 | ------------- | ------------- | --------- |
-| Fulano 1 | Content Cell  | --------- |
-| Fulano 2  | Content Cell  | --------- |
+| GABRIEL | Content Cell  | --------- |
+| RICARDO | Content Cell  | --------- |
+| DANIEL  | Content Cell  | --------- |
+| GUSTAVO | Content Cell  | --------- |
+| EDUARDO | Content Cell  | --------- |
